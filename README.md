@@ -16,6 +16,18 @@ Asegúrense de llenar lo siguiente:
 
 Al momento de crear la aplicación, deben asegurarse que este directorio sea el **_root_**. Si la aplicación queda aquí contenida dentro de una carpeta **tendrán problemas al momento de hacer un deployment.**
 
+#### Procedimiento sugerido
+
+Cambiar `GRUPO` por el nombre de su grupo en Github.
+```sh
+# Clonamos el repositorio, esto creará la carpeta GRUPO en el directorio actual
+$ git clone https://github.com/IIC2513-2015-2/GRUPO.git
+
+# Creamos la aplicación Rails, puedes añadir parámetros adicionales. 
+# Ver: rails new --help 
+$ rails new GRUPO
+```
+
 # Instrucciones para el desarrollo local
 
 Aquí se deberá indicar el procedimiento necesario para poder ejecutar la aplicación Rails localmente. Usar [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) para disponer de una buena marcación.
