@@ -1,4 +1,4 @@
-# Grupo <nombre grupo>
+# Equipo <nombre equipo>
 
 * Proyecto a trabajar: <proyecto>
 * Ayudante: <ayudante>
