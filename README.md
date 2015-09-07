@@ -14,7 +14,7 @@ Asegúrense de llenar lo siguiente:
 
 # Setup inicial
 
-Al momento de crear la aplicación, deben asegurarse que este directorio sea el **_root_**. Si la aplicación queda dentro de una carpeta tendrán problemas al momento de hacer un deployment.
+Al momento de crear la aplicación, deben asegurarse que este directorio sea el **_root_**. Si la aplicación queda aquí contenida dentro de una carpeta **tendrán problemas al momento de hacer un deployment.**
 
 # Instrucciones para el desarrollo local
 
